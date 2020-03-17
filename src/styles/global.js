@@ -15,7 +15,7 @@ html, body, #root{
 
 body{
     font: 14px 'Noto Sans',sans-serif;
-    background:#eee;
+    background:#ECF1F8;
     -webkit-font-smoothing: antialised !important;
 }
 
