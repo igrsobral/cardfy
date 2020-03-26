@@ -9,6 +9,7 @@ export const Container = styled.div`
   border-left: 1px solid rgba(0,0, 0,0.05);
   }
 
+  
   header{
     display: flex;
     justify-content: space-between;
@@ -23,11 +24,14 @@ export const Container = styled.div`
    button{
     height: 42px;
     width: 43px;
-    border-radius: 18px;
+    border-radius: 50%;
     background: #3b5dfb;
     border: none;
     cursor:pointer;
    }
+   
+   
+
 
   }
 
